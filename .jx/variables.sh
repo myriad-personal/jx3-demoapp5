@@ -1,1 +1,1 @@
-export KANIKO_FLAGS="--skip-tls-verify-registry --skip-tls-verify --insecure-registry --insecure"
+export KANIKO_FLAGS="--skip-tls-verify --skip-tls-verify-registry --skip-tls-verify-pull"
