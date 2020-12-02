@@ -21,7 +21,7 @@ public class Jx3Demoapp5Application {
 
     @GetMapping
     public Map<String, String> hello() {
-        return Map.of("hello","world");
+        return Map.of("hello","world!");
     }
 
 }
