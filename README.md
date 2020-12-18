@@ -26,4 +26,4 @@ $ curl -v http://localhost:8080/hello
 
 ## Fake News
 
-* your mom called
+* your mom called.
